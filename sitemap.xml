@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/</loc>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/event_outline.html</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/stage.html</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/cafe_booth_exhibition.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/flea_market.html</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/access.html</loc>
+  <priority>0.1</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/contact.html</loc>
+  <priority>0.1</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/log.html</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/sponsor.html</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>http://ichidaisai.club.hiroshima-cu.ac.jp/sitemap.html</loc>
+  <priority>0.2</priority>
+</url>
+
+</urlset>
